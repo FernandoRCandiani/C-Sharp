@@ -1,0 +1,14 @@
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\bin\Debug\net8.0\Diamante.exe
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\bin\Debug\net8.0\Diamante.deps.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\bin\Debug\net8.0\Diamante.runtimeconfig.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\bin\Debug\net8.0\Diamante.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\bin\Debug\net8.0\Diamante.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.AssemblyInfoInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.AssemblyInfo.cs
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.csproj.CoreCompileInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\refint\Diamante.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\Diamante.genruntimeconfig.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\Diamante\Diamante\obj\Debug\net8.0\ref\Diamante.dll
