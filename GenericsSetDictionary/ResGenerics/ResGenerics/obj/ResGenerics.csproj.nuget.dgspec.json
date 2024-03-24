@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\generics1\\generics1\\generics1.csproj": {}
+    "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\ResGenerics\\ResGenerics\\ResGenerics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\generics1\\generics1\\generics1.csproj": {
+    "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\ResGenerics\\ResGenerics\\ResGenerics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\generics1\\generics1\\generics1.csproj",
-        "projectName": "generics1",
-        "projectPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\generics1\\generics1\\generics1.csproj",
+        "projectUniqueName": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\ResGenerics\\ResGenerics\\ResGenerics.csproj",
+        "projectName": "ResGenerics",
+        "projectPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\ResGenerics\\ResGenerics\\ResGenerics.csproj",
         "packagesPath": "C:\\Users\\FernandoGamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\generics1\\generics1\\obj\\",
+        "outputPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\ResGenerics\\ResGenerics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
