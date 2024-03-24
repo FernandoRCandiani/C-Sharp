@@ -1,0 +1,14 @@
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\bin\Debug\net8.0\generics1.exe
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\bin\Debug\net8.0\generics1.deps.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\bin\Debug\net8.0\generics1.runtimeconfig.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\bin\Debug\net8.0\generics1.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\bin\Debug\net8.0\generics1.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.AssemblyInfoInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.AssemblyInfo.cs
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.csproj.CoreCompileInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\refint\generics1.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\generics1.genruntimeconfig.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\generics1\generics1\obj\Debug\net8.0\ref\generics1.dll
