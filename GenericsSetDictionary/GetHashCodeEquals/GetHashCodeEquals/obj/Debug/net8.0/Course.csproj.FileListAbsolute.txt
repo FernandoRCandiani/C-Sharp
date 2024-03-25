@@ -1,0 +1,14 @@
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\Course.exe
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\Course.deps.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\Course.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\Course.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\refint\Course.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\ref\Course.dll
