@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\GetHashCodeEquals\\GetHashCodeEquals\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\GetHashCodeEquals\\GetHashCodeEquals\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\GetHashCodeEquals\\GetHashCodeEquals\\Course.csproj",
+      "projectPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\GetHashCodeEquals\\GetHashCodeEquals\\Course.csproj",
       "packagesPath": "C:\\Users\\FernandoGamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\GetHashCodeEquals\\GetHashCodeEquals\\obj\\",
+      "outputPath": "C:\\Users\\FernandoGamer\\Desktop\\Projeto C#\\C-Sharp\\GenericsSetDictionary\\GetHashCodeEquals\\GetHashCodeEquals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
