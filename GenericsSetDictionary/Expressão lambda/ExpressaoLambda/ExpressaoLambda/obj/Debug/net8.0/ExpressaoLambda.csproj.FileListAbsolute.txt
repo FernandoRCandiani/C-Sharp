@@ -1,0 +1,15 @@
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\bin\Debug\net8.0\ExpressaoLambda.exe
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\bin\Debug\net8.0\ExpressaoLambda.deps.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\bin\Debug\net8.0\ExpressaoLambda.runtimeconfig.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\bin\Debug\net8.0\ExpressaoLambda.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\bin\Debug\net8.0\ExpressaoLambda.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.AssemblyInfoInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.AssemblyInfo.cs
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.sourcelink.json
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\refint\ExpressaoLambda.dll
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.pdb
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ExpressaoLambda.genruntimeconfig.cache
+C:\Users\FernandoGamer\Desktop\Projeto C#\C-Sharp\GenericsSetDictionary\ExpressaoLambda\ExpressaoLambda\obj\Debug\net8.0\ref\ExpressaoLambda.dll
